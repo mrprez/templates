@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<drawing>
+	<drawedElement x="347" y="304" fontName="Lucida Bright Regular" fontSize="50" fontStyle="0" name="Es" color="0,0,0" angle="0.0">Esquive-&gt;value</drawedElement>
+	<drawedElement x="2180" y="628" fontName="Lucida Bright Regular" fontSize="50" fontStyle="1" name="A7" color="0,0,0" angle="0.0">Attributs#@5-&gt;value</drawedElement>
+	<drawedElement x="1216" y="628" fontName="Lucida Bright Regular" fontSize="50" fontStyle="1" name="A4" color="0,0,0" angle="0.0">Attributs#@3-&gt;value</drawedElement>
+	<drawedElement x="684" y="759" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="AtA29" color="0,0,0" angle="0.0" substring="3">Compétences#@29#@1-&gt;name</drawedElement>
+	<drawedElement x="573" y="628" fontName="Lucida Bright Regular" fontSize="50" fontStyle="1" name="A2" color="0,0,0" angle="0.0">Attributs#@2-&gt;value</drawedElement>
+	<drawedElement x="1746" y="304" fontName="Lucida Bright Regular" fontSize="50" fontStyle="0" name="Vi" color="0,0,0" angle="0.0">Vie-&gt;value</drawedElement>
+	<drawedElement x="894" y="628" fontName="Lucida Bright Regular" fontSize="50" fontStyle="1" name="A3" color="0,0,0" angle="0.0">Attributs#@7-&gt;value</drawedElement>
+	<drawedElement x="1749" y="208" fontName="Lucida Bright Regular" fontSize="50" fontStyle="0" name="Nationalite" color="0,0,0" angle="0.0">Nationalité-&gt;value</drawedElement>
+	<drawedElement x="1537" y="628" fontName="Lucida Bright Regular" fontSize="50" fontStyle="1" name="A5" color="0,0,0" angle="0.0">Attributs#@4-&gt;value</drawedElement>
+	<drawedElement x="350" y="208" fontName="Lucida Bright Regular" fontSize="50" fontStyle="0" name="Nom" color="0,0,0" angle="0.0">Nom-&gt;value</drawedElement>
+	<drawedElement x="347" y="397" fontName="Lucida Bright Regular" fontSize="50" fontStyle="0" name="Ch" color="0,0,0" angle="0.0">Attributs#@3-&gt;value</drawedElement>
+	<drawedElement x="252" y="628" fontName="Lucida Bright Regular" fontSize="50" fontStyle="1" name="A1" color="0,0,0" angle="0.0">Attributs#@1-&gt;value</drawedElement>
+	<drawedElement x="1858" y="628" fontName="Lucida Bright Regular" fontSize="50" fontStyle="1" name="A6" color="0,0,0" angle="0.0">Attributs#@6-&gt;value</drawedElement>
+	<drawedElement x="684" y="759 " fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A29" color="0,0,0" angle="0.0">Compétences#@29#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="811 " fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A13" color="0,0,0" angle="0.0">Compétences#@13#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="969 " fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A16" color="0,0,0" angle="0.0">Compétences#@16#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1180" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A30" color="0,0,0" angle="0.0">Compétences#@30#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1233" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A1#" color="0,0,0" angle="0.0">Compétences#@1#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1286" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A2#" color="0,0,0" angle="0.0">Compétences#@2#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1338" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A17" color="0,0,0" angle="0.0">Compétences#@17#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1391" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A18" color="0,0,0" angle="0.0">Compétences#@18#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1444" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A37" color="0,0,0" angle="0.0">Compétences#@37#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1497" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A3#" color="0,0,0" angle="0.0">Compétences#@3#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1549" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A23" color="0,0,0" angle="0.0">Compétences#@23#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1602" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A38" color="0,0,0" angle="0.0">Compétences#@38#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1655" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A39" color="0,0,0" angle="0.0">Compétences#@39#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1708" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A21" color="0,0,0" angle="0.0">Compétences#@21#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1760" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A22" color="0,0,0" angle="0.0">Compétences#@22#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="1813" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A4#" color="0,0,0" angle="0.0">Compétences#@4#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2024" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A31" color="0,0,0" angle="0.0">Compétences#@31#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2077" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A19" color="0,0,0" angle="0.0">Compétences#@19#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2129" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A40" color="0,0,0" angle="0.0">Compétences#@40#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2182" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A41" color="0,0,0" angle="0.0">Compétences#@41#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2235" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A32" color="0,0,0" angle="0.0">Compétences#@32#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2287" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A42" color="0,0,0" angle="0.0">Compétences#@42#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2340" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A5#" color="0,0,0" angle="0.0">Compétences#@5#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2393" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A24" color="0,0,0" angle="0.0">Compétences#@24#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2446" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A6#" color="0,0,0" angle="0.0">Compétences#@6#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2498" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A7#" color="0,0,0" angle="0.0">Compétences#@7#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2551" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A43" color="0,0,0" angle="0.0">Compétences#@43#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2604" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A44" color="0,0,0" angle="0.0">Compétences#@44#@1-&gt;name</drawedElement>
+	<drawedElement x="684" y="2657" fontName="Lucida Bright Regular" fontSize="40" fontStyle="0" name="At1A45" color="0,0,0" angle="0.0">Compétences#@45#@1-&gt;name</drawedElement>
+</drawing>

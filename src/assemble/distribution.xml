@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly
+	xmlns="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/plugins/maven-assembly-plugin/assembly/1.1.2 http://maven.apache.org/xsd/assembly-1.1.2.xsd">
+	<id>package</id>
+	<formats>
+		<format>zip</format>
+	</formats>
+	<includeBaseDirectory>false</includeBaseDirectory>
+	<fileSets>
+		<fileSet>
+			<includes>
+				<include>BSG-recto.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/BSG</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<includes>
+				<include>Capharnaum-recto.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/Capharnaum</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<includes>
+				<include>Changelin.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/Changelin</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<includes>
+				<include>INS.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/INS</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<includes>
+				<include>MdT.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/MdT</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<includes>
+				<include>TA-recto.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/TiersAgePerso</outputDirectory>
+		</fileSet>
+		
+	</fileSets>
+</assembly>
