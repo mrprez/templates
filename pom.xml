@@ -11,6 +11,12 @@
 	
 	<name>Plugin Repository</name>
 	
+	<scm>
+		<connection>scm:git:git://github.com/mrprez/templates.git</connection>
+		<developerConnection>scm:git:https://github.com/mrprez/templates.git</developerConnection>
+		<tag>HEAD</tag>
+	</scm>
+	
 	<build>
 		<plugins>
 			<plugin>
