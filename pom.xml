@@ -6,7 +6,7 @@
 	<packaging>pom</packaging>
 	
 	<artifactId>templates</artifactId>
-	<groupId>com.mrprez.gerncross</groupId>
+	<groupId>com.mrprez.gencross</groupId>
 	<version>1.0-SNAPSHOT</version>
 	
 	<name>Plugin Repository</name>
