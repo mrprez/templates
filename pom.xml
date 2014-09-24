@@ -11,6 +11,12 @@
 	
 	<name>Plugin Repository</name>
 	
+	<parent>
+		<artifactId>mrprez</artifactId>
+		<groupId>com.mrprez</groupId>
+		<version>1.4</version>
+	</parent>
+	
 	<scm>
 		<connection>scm:git:git://github.com/mrprez/templates.git</connection>
 		<developerConnection>scm:git:git@github.com:mrprez/templates.git</developerConnection>
