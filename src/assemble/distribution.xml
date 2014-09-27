@@ -51,6 +51,13 @@
 			<directory>src/main/resources/DrawerGenerator</directory>
 			<outputDirectory>DrawerGenerator/TiersAgePerso</outputDirectory>
 		</fileSet>
+		<fileSet>
+			<includes>
+				<include>Vampire-requiem.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/Vampire</outputDirectory>
+		</fileSet>
 		
 	</fileSets>
 </assembly>
