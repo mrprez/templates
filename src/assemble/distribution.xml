@@ -46,6 +46,13 @@
 		</fileSet>
 		<fileSet>
 			<includes>
+				<include>PavillonNoir.gcd</include>
+			</includes>
+			<directory>src/main/resources/DrawerGenerator</directory>
+			<outputDirectory>DrawerGenerator/PavillonNoir</outputDirectory>
+		</fileSet>
+		<fileSet>
+			<includes>
 				<include>TA-recto.gcd</include>
 			</includes>
 			<directory>src/main/resources/DrawerGenerator</directory>
