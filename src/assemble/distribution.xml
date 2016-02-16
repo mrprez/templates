@@ -49,7 +49,7 @@
 				<include>PavillonNoir.gcd</include>
 			</includes>
 			<directory>src/main/resources/DrawerGenerator</directory>
-			<outputDirectory>DrawerGenerator/PavillonNoir</outputDirectory>
+			<outputDirectory>DrawerGenerator/Pavillon Noir</outputDirectory>
 		</fileSet>
 		<fileSet>
 			<includes>
